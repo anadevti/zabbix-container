@@ -24,3 +24,6 @@ Agora é possível acessar a interface web do zabbix através do endereço:
 127.0.0.1/zabbix
 
 Assim temos um servidor zabbix totalmente funcional, ideal para ambiente de hologação e testes. Também sendo possível utilizar em ambientes menores, ou seja laboratórios gereais!
+
+REFERENCIAS:
+https://www.zabbix.com/documentation/current/en/manual/installation/containers
