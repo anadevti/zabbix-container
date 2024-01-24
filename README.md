@@ -1,6 +1,6 @@
 # Instalação do zabbix 6.4.10. utilizando Docker.
 
-## Descrição:
+ # Descrição:
 Este script em shell, automatiza a instalação do zabbix server utilizando containers docker.
 
 Pré requesitos:
